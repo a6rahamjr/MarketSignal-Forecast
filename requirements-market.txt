@@ -1,2 +1,2 @@
 -r requirements.txt
-yfinance>=0.2.54,<1
+yfinance>=0.2.54,<2

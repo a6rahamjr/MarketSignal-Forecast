@@ -21,7 +21,7 @@ dependencies = [
 
 [project.optional-dependencies]
 market = [
-    "yfinance>=0.2.54,<1",
+    "yfinance>=0.2.54,<2",
 ]
 dev = [
     "httpx>=0.27,<1",
